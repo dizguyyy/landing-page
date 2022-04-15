@@ -1,0 +1,107 @@
+
+.sec-1{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 8px;
+}
+
+.car{
+    width: 449px;
+    height: 200px;
+}
+
+section{
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.sec-2-p{
+    text-align: center;
+}
+
+.sec-squ-1{
+    background-color: blue;
+}
+
+.sec-squ-2{
+    background-color: aqua;
+}
+
+.sec-squ-3{
+    background-color: darkblue;
+}
+
+.sec-squ-4{
+    background-color: antiquewhite;  
+}
+
+.sec-2{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.sec-squ{
+    width: 200px;
+    height: 200px;
+}
+
+.info{
+    max-width: 250px;
+}
+
+.sec-3{
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+blockquote p{
+    max-width: 800px;
+    text-align: center;
+    padding-left: 600px;
+}
+
+figcaption{
+    padding-left: 1200px;
+}
+
+.sec-4{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call{
+    background-color: blue;
+    padding: 50px 150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+}
+
+.sign-up{
+    border: black solid 3px;
+    border-radius: 10px;
+    padding: 10px 50px;
+}
+
+footer{
+    text-align: center;
+}
